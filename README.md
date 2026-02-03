@@ -57,4 +57,5 @@ Com esses passos, você manterá seus dados fiscais organizados e prontos para a
 ![Tela de Notas e Holerites](assets/NOTAS.png)
 
 ---
-*Desenvolvido por Pedro Zeferino da Silva*
+
+* Desenvolvido por Pedro Zeferino da Silva.
